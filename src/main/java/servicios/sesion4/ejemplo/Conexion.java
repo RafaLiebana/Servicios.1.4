@@ -6,5 +6,5 @@ public class Conexion {
 	static String bd = "usuarios";
 	static String url = "jdbc:mysql://localhost/"+bd;
 	
-	Conn
+	Co
 }
